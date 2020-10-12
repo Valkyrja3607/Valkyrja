@@ -34,5 +34,5 @@
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Valkyrja3607&theme=highcontrast&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkyrja3607&theme=highcontrast&hide=jupyter%20notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkyrja3607&theme=highcontrast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
