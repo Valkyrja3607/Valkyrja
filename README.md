@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
+<br>
 <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"/>
 <img src="https://img.shields.io/badge/-AtCoder-000000?style=flat-square&logo=AtCoder&logoColor=white""/>
